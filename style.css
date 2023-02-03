@@ -1,0 +1,24 @@
+.heading {
+  text-align: center;
+}
+
+body {
+  padding: 50px;
+  background-color: #ffffff;
+}
+
+.outer {
+  border: 2px solid black;
+}
+
+.mb-3,
+.btn,
+.input-group,
+.form-check,
+.col {
+  margin: 2vh;
+}
+
+.vanish {
+  display: none;
+}
